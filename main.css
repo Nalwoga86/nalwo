@@ -1,0 +1,15 @@
+*{
+    font-family: arial;
+}
+
+h1 {
+    color:blueviolet
+}
+body{ 
+    background-color: aquamarine;
+}
+ol{
+    text-decoration: none;
+    list-style-type: none;
+    background-color: blue;
+}
